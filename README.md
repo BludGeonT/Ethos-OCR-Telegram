@@ -4,9 +4,9 @@ An EthosProject Telegram Message OCR Tool For Pattern Matching, Learning, and Pr
 
 # Ethos-OCR-Telegram Project
 
-# Read PLANNING.md First Before Any Thinking or Planning or Coding to establish AI agent guidelines and guardrails.
-# Read UI.md to understand how the layout will be formatted, behave, and interact to provide the user experience for this tool
-# Read any other .md Markdown files next, if present, and apply the guidelines and considerations from the Markdown files before it.
+## Read PLANNING.md First Before Any Thinking or Planning or Coding to establish AI agent guidelines and guardrails.
+## Read UI.md to understand how the layout will be formatted, behave, and interact to provide the user experience for this tool
+## Read any other .md Markdown files next, if present, and apply the guidelines and considerations from the Markdown files before it.
 
 ## Ethos-OCR-Telegram Additional configuration considerations when we start to build this
 - In addition to reading and going through all of the markdown .md files for this project, there are some other things to consider when the time to build this comes with Agents
